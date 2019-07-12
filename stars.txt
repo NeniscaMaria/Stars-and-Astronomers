@@ -1,0 +1,13 @@
+﻿Beta Virginis,Virgo,11h 50m 41.71824s,1d 45' 52.991'',1.68,C:\Users\nenis\source\repos\QtGuiApplication1\QtGuiApplication1\virgo.png
+Upsilon Andromedae,Andromeda,01h 36m 47.84216s,41d 24' 19.6443'',1.48,C:\Users\nenis\source\repos\QtGuiApplication1\QtGuiApplication1\andromeda.png
+Delta Virginis,Virgo,12h 55m 36.20861s,3d 23' 50.8932'',48,C:\Users\nenis\source\repos\QtGuiApplication1\QtGuiApplication1\virgo.png
+Alpha Caeli,Caelum,04h 40m 33.7125s,-41d 51' 49.50'',1.3,C:\Users\nenis\source\repos\QtGuiApplication1\QtGuiApplication1\caelum.png
+Chi Virginis,Virgo,12h 39m 14.76703s,-07d 59' 44.032'',23,C:\Users\nenis\source\repos\QtGuiApplication1\QtGuiApplication1\virgo.png
+Xi Andromedae,Andromeda,01h 22m 20.41924s,45d 31' 43.6003'',10,C:\Users\nenis\source\repos\QtGuiApplication1\QtGuiApplication1\andromeda.png
+Zeta Caeli,Caelum,04h 47m 49.57719s,-30d 01' 13.3391'',4.2,C:\Users\nenis\source\repos\QtGuiApplication1\QtGuiApplication1\caelum.png
+Pi Andromedae,Andromeda,00h 36m 52.84926s,33d 43' 09.6384'',8,C:\Users\nenis\source\repos\QtGuiApplication1\QtGuiApplication1\andromeda.png
+70 Virginis,Virgo,13h 28m 25.81s,13d 46' 43.6'',1.9,C:\Users\nenis\source\repos\QtGuiApplication1\QtGuiApplication1\virgo.png
+Zeta Virginis,Virgo,13h 34m 41.591s,0d 35' 44.95'',2.08,C:\Users\nenis\source\repos\QtGuiApplication1\QtGuiApplication1\virgo.png
+56 Andromedae,Andromeda,01h 56m 09.36412s,37d 15' 06.5973'',11,C:\Users\nenis\source\repos\QtGuiApplication1\QtGuiApplication1\andromeda.png
+Ross 248,Andromeda,23h 41m 55.0361s,44d 10' 38.825'',0.16,C:\Users\nenis\source\repos\QtGuiApplication1\QtGuiApplication1\andromeda.png
+Spica,Virgo,13h 25m 11.579s,-11d 09' 40.75'',7.47,C:\Users\nenis\source\repos\QtGuiApplication1\QtGuiApplication1\virgo.png
