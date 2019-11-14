@@ -14,3 +14,4 @@ This is an application for astronomers which helps them catalogue the stars.
 
 What I learned:
 ->how to display some dots according to given coordinates and sizes
+->use the QPainter
