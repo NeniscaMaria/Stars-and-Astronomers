@@ -11,3 +11,6 @@ This is an application for astronomers which helps them catalogue the stars.
 ->The astronomer can search for stars by name or coordinates. The result modifies as the user is typing.
 ->Each astronomer has a View button which allows him to see the star selected within its constellation. A new window will show all stars from that constallation. The selected star is red, while the others are black.
 ->Everything is saved in files when the application ends.
+
+What I learned:
+->how to display some dots according to given coordinates and sizes
