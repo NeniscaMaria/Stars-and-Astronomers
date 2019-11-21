@@ -1,4 +1,5 @@
 # Stars-and-Astronomers
+--created during the second semester
 
 This application is created using Qt in Visual Studio 2017 and the Observer design pattern.
 
